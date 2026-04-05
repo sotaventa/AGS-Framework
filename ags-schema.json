@@ -1,4 +1,6 @@
 {
+  "$id": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/ags-schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "@context": "https://schema.org",
   "@graph": [
     {
@@ -20,11 +22,11 @@
         "Machine Preference Index (MPI)",
         "Cost Per Agent Acquisition (CPAA)"
       ],
-      "description": "Strategic Marketing Leader (15+ years) with expertise in translating strategy into commercial growth. Creator of the Autonomous Growth System (AGS) framework, preparing organizations for the Post-Marketing Era and machine-mediated economic environments."
+      "description": "Strategic Marketing Leader (15+ years) with expertise in translating strategy into commercial growth. Creator of the Autonomous Growth System (AGS) framework, preparing organisations for the Post-Marketing Era and machine-mediated economic environments."
     },
     {
       "@type": "Article",
-      "@id": "https://malingaertig.com/blueprint/#agentic-commerce",
+      "@id": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/agentic-commerce.md",
       "author": {
         "@id": "https://malingaertig.com/#person"
       },
@@ -34,11 +36,13 @@
       "about": [
         {
           "@type": "Thing",
-          "name": "Agentic Commerce"
+          "name": "Agentic Commerce",
+          "url": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/agentic-commerce.md"
         },
         {
           "@type": "Thing",
-          "name": "Autonomous Growth Systems"
+          "name": "Autonomous Growth Systems",
+          "url": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/ags-framework-overview.md"
         },
         {
           "@type": "Thing",
@@ -49,7 +53,7 @@
     },
     {
       "@type": "Article",
-      "@id": "https://malingaertig.com/blueprint/#framework-overview",
+      "@id": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/ags-framework-overview.md",
       "author": {
         "@id": "https://malingaertig.com/#person"
       },
@@ -67,6 +71,13 @@
         }
       ],
       "keywords": "Autonomous Growth System, AGS, Three Laws of Autonomous Growth, Operational Alpha, Intelligent Governance, Agentic Readiness Score, ARS"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/ags-schema.json",
+      "name": "AGS Framework Schema",
+      "description": "Machine-readable definition of the Autonomous Growth System framework.",
+      "usageInfo": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/README.md"
     }
   ]
 }
