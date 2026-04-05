@@ -23,7 +23,6 @@ Growth has shifted from **Attention Capture** (persuasion-led) to **Decision Qua
 ## Supporting Media & Framework Components
 - **[AGS Executive Summary (1 min)](https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/AGS%20Framework%20Short%201min.mp4)**
   *This executive summary outlines the strategic shift from human-centric attention to autonomous agent decision-making within the post-marketing era. It highlights how an organisation's growth is now underpinned by the three laws of machine readability, verifiable performance, and total system integration. The briefing provides a concise roadmap for achieving agentic readiness and successfully competing in an environment optimised for system-to-system transactions.*
-- **[AGS Framework Deep Dive (5 min)](https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/AGS%20Framework%20explained%205min.mp4)**: Detailed explanation of the system physics.
 - **[Agentic Commerce Blueprint](https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/agentic-commerce.md)**: Technical specification for machine-readable commerce.
 - **[Framework Overview Documentation](https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/ags-framework-overview.md)**: Foundational principles of the AGS.
 - **[AGS Schema (JSON-LD)](https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/ags-schema.json)**: Machine-readable system definition.
