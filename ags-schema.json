@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://malingaertig.com/#person",
+      "name": "Malin Gaertig",
+      "jobTitle": "Senior Digital Marketing Leader & Strategic Marketing Architect",
+      "url": "https://malingaertig.com",
+      "sameAs": [
+        "https://www.linkedin.com/in/malin-gaertig/"
+      ],
+      "knowsAbout": [
+        "Autonomous Growth Systems (AGS)",
+        "Agentic Commerce",
+        "Selection Logic",
+        "Growth Marketing Strategy",
+        "1st-Party Data (1PD) Strategy",
+        "Zero-UI Commerce",
+        "Machine Preference Index (MPI)",
+        "Cost Per Agent Acquisition (CPAA)"
+      ],
+      "description": "Strategic Marketing Leader (15+ years) with expertise in translating strategy into commercial growth. Creator of the Autonomous Growth System (AGS) framework, preparing organizations for the Post-Marketing Era and machine-mediated economic environments."
+    },
+    {
+      "@type": "Article",
+      "@id": "https://malingaertig.com/blueprint/#agentic-commerce",
+      "author": {
+        "@id": "https://malingaertig.com/#person"
+      },
+      "headline": "The Autonomous Growth System | Agentic Commerce: Competing in the Post-Marketing Era",
+      "datePublished": "2026-03-01",
+      "description": "An exploration of the transition from the Attention Economy to the Autonomous Economy, detailing how growth moves from attention capture to decision qualification via the Agentic Commerce framework.",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Agentic Commerce"
+        },
+        {
+          "@type": "Thing",
+          "name": "Autonomous Growth Systems"
+        },
+        {
+          "@type": "Thing",
+          "name": "Post-Marketing Era"
+        }
+      ],
+      "keywords": "Agentic Commerce, WebMCP, Universal Commerce Protocol, UCP, Agentic AI, Zero-UI Commerce, Machine Preference Index, MPI, CPAA"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://malingaertig.com/blueprint/#framework-overview",
+      "author": {
+        "@id": "https://malingaertig.com/#person"
+      },
+      "headline": "The Autonomous Growth System | Framework Overview",
+      "datePublished": "2026-04-01",
+      "description": "A foundational overview of the Three Laws of Autonomous Growth and the Four Pillars (Agentic Commerce, Operational Alpha, Personalised AI Agents, Intelligent Governance) required to build an Autonomous Growth System.",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "The Three Laws of Autonomous Growth"
+        },
+        {
+          "@type": "Thing",
+          "name": "The Four Pillars of Autonomous Growth Systems"
+        }
+      ],
+      "keywords": "Autonomous Growth System, AGS, Three Laws of Autonomous Growth, Operational Alpha, Intelligent Governance, Agentic Readiness Score, ARS"
+    }
+  ]
+}
