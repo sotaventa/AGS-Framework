@@ -1,1 +1,18 @@
-{\n  "name": "webmcp-ags-brain",\n  "version": "1.0.0",\n  "type": "module",\n  "dependencies": {\n    "@modelcontextprotocol/sdk": "^1.0.0"\n  }\n}
+ 1 {
+    2   "name": "webmcp-ags-brain",
+    3   "version": "1.0.0",
+    4   "type": "module",
+    5   "description": "Agentic Commerce Optimisation (ACO) engine and MCP server for the Autonomous Growth System (AGS).",
+    6   "keywords": [
+    7     "agentic-commerce",
+    8     "aco",
+    9     "ags",
+   10     "mcp",
+   11     "webmcp",
+   12     "agentic-seo",
+   13     "autonomous-growth"
+   14   ],
+   15   "dependencies": {
+   16     "@modelcontextprotocol/sdk": "^1.0.0"
+   17   }
+   18 }
