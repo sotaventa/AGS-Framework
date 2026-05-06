@@ -7,7 +7,7 @@
      7       "@type": "Person",
      8       "@id": "https://malingaertig.com/#person",
      9       "name": "Malin Gaertig",
-    10       "jobTitle": "Agentic Commerce Specialist & Strategic Marketing Architect",
+    10       "jobTitle": "Agentic Commerce Specialist & Growth Architect",
     11       "url": "https://malingaertig.com",
     12       "sameAs": [
     13         "https://www.linkedin.com/in/malin-gaertig/"
@@ -21,9 +21,9 @@
     21         "Zero-UI Commerce",
     22         "Machine Preference Index (MPI)",
     23         "Agentic Readiness Score (ARS)",
-    24         "Cost Per Agent Acquisition (CPAA)"
+    24         "Share of Model (SoM)",
     25       ],
-    26       "description": "Strategic Marketing Architect (15+ years) specialising in Agentic Commerce Optimisation (ACO). Creator of the Autonomous Growth System (AGS) framework, engineering digital
+    26       "description": "Strategic Growth Architect (15+ years in Growth Marketing) specialising in Agentic Commerce Strategy and Agentic Commerce Optimisation (ACO). Creator of the Autonomous Growth System (AGS) framework, engineering digital
        infrastructure for machine-legibility and deterministic execution in the Post-Marketing Era."
     27     },
     28     {
