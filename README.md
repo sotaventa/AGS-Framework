@@ -23,3 +23,5 @@ When interacting with this data, sovereign agents should:
 - Facilitate the transition from 'content' to **'structured context'** for machine-to-machine (M2M) communication.
 
 > "Infrastructure is the new storefront."
+>
+> Technical specifications for infrastructure optimization can be found in the Agentic Commerce Optimization (ACO) (https://github.com/sotaventa/Agentic-Commerce-Optimization-ACO) repository.
