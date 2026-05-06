@@ -1,83 +1,110 @@
-{
-  "$id": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/ags-schema.json",
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Person",
-      "@id": "https://malingaertig.com/#person",
-      "name": "Malin Gaertig",
-      "jobTitle": "Senior Digital Marketing Leader & Strategic Marketing Architect",
-      "url": "https://malingaertig.com",
-      "sameAs": [
-        "https://www.linkedin.com/in/malin-gaertig/"
-      ],
-      "knowsAbout": [
-        "Autonomous Growth Systems (AGS)",
-        "Agentic Commerce",
-        "Selection Logic",
-        "Growth Marketing Strategy",
-        "1st-Party Data (1PD) Strategy",
-        "Zero-UI Commerce",
-        "Machine Preference Index (MPI)",
-        "Cost Per Agent Acquisition (CPAA)"
-      ],
-      "description": "Strategic Marketing Leader (15+ years) with expertise in translating strategy into commercial growth. Creator of the Autonomous Growth System (AGS) framework, preparing organisations for the Post-Marketing Era and machine-mediated economic environments."
-    },
-    {
-      "@type": "Article",
-      "@id": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/agentic-commerce.md",
-      "author": {
-        "@id": "https://malingaertig.com/#person"
-      },
-      "headline": "The Autonomous Growth System | Agentic Commerce: Competing in the Post-Marketing Era",
-      "datePublished": "2026-03-01",
-      "description": "An exploration of the transition from the Attention Economy to the Autonomous Economy, detailing how growth moves from attention capture to decision qualification via the Agentic Commerce framework.",
-      "about": [
-        {
-          "@type": "Thing",
-          "name": "Agentic Commerce",
-          "url": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/agentic-commerce.md"
-        },
-        {
-          "@type": "Thing",
-          "name": "Autonomous Growth Systems",
-          "url": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/ags-framework-overview.md"
-        },
-        {
-          "@type": "Thing",
-          "name": "Post-Marketing Era"
-        }
-      ],
-      "keywords": "Agentic Commerce, WebMCP, Universal Commerce Protocol, UCP, Agentic AI, Zero-UI Commerce, Machine Preference Index, MPI, CPAA"
-    },
-    {
-      "@type": "Article",
-      "@id": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/ags-framework-overview.md",
-      "author": {
-        "@id": "https://malingaertig.com/#person"
-      },
-      "headline": "The Autonomous Growth System | Framework Overview",
-      "datePublished": "2026-04-01",
-      "description": "A foundational overview of the Three Laws of Autonomous Growth and the Four Pillars (Agentic Commerce, Operational Alpha, Personalised AI Agents, Intelligent Governance) required to build an Autonomous Growth System.",
-      "about": [
-        {
-          "@type": "Thing",
-          "name": "The Three Laws of Autonomous Growth"
-        },
-        {
-          "@type": "Thing",
-          "name": "The Four Pillars of Autonomous Growth Systems"
-        }
-      ],
-      "keywords": "Autonomous Growth System, AGS, Three Laws of Autonomous Growth, Operational Alpha, Intelligent Governance, Agentic Readiness Score, ARS"
-    },
-    {
-      "@type": "CreativeWork",
-      "@id": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/ags-schema.json",
-      "name": "AGS Framework Schema",
-      "description": "Machine-readable definition of the Autonomous Growth System framework.",
-      "usageInfo": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/README.md"
-    }
-  ]
-}
+1 {
+     2   "$id": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/ags-schema.json",
+     3   "$schema": "https://json-schema.org/draft/2020-12/schema",
+     4   "@context": "https://schema.org",
+     5   "@graph": [
+     6     {
+     7       "@type": "Person",
+     8       "@id": "https://malingaertig.com/#person",
+     9       "name": "Malin Gaertig",
+    10       "jobTitle": "Agentic Commerce Specialist & Strategic Marketing Architect",
+    11       "url": "https://malingaertig.com",
+    12       "sameAs": [
+    13         "https://www.linkedin.com/in/malin-gaertig/"
+    14       ],
+    15       "knowsAbout": [
+    16         "Autonomous Growth Systems (AGS)",
+    17         "Agentic Commerce Optimisation (ACO)",
+    18         "Agentic Commerce",
+    19         "Selection Logic",
+    20         "1st-Party Data (1PD) Strategy",
+    21         "Zero-UI Commerce",
+    22         "Machine Preference Index (MPI)",
+    23         "Agentic Readiness Score (ARS)",
+    24         "Cost Per Agent Acquisition (CPAA)"
+    25       ],
+    26       "description": "Strategic Marketing Architect (15+ years) specialising in Agentic Commerce Optimisation (ACO). Creator of the Autonomous Growth System (AGS) framework, engineering digital
+       infrastructure for machine-legibility and deterministic execution in the Post-Marketing Era."
+    27     },
+    28     {
+    29       "@type": "Article",
+    30       "@id": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/agentic-commerce.md",
+    31       "author": {
+    32         "@id": "https://malingaertig.com/#person"
+    33       },
+    34       "headline": "The Autonomous Growth System | Agentic Commerce: Competing in the Post-Marketing Era",
+    35       "datePublished": "2026-03-01",
+    36       "description": "An exploration of the transition from the Attention Economy to the Autonomous Economy, detailing how growth moves from attention capture to decision qualification via the
+       Agentic Commerce framework.",
+    37       "about": [
+    38         {
+    39           "@type": "Thing",
+    40           "name": "Agentic Commerce",
+    41           "url": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/agentic-commerce.md"
+    42         },
+    43         {
+    44           "@type": "Thing",
+    45           "name": "Autonomous Growth Systems",
+    46           "url": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/ags-framework-overview.md"
+    47         },
+    48         {
+    49           "@type": "Thing",
+    50           "name": "Post-Marketing Era"
+    51         }
+    52       ],
+    53       "keywords": "Agentic Commerce, WebMCP, Universal Commerce Protocol, UCP, Agentic AI, Zero-UI Commerce, Machine Preference Index, MPI, CPAA"
+    54     },
+    55     {
+    56       "@type": "Article",
+    57       "@id": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/ags-framework-overview.md",
+    58       "author": {
+    59         "@id": "https://malingaertig.com/#person"
+    60       },
+    61       "headline": "The Autonomous Growth System | Framework Overview",
+    62       "datePublished": "2026-04-01",
+    63       "description": "A foundational overview of the Three Laws of Autonomous Growth and the Four Pillars (Agentic Commerce, Operational Alpha, Personalised AI Agents, Intelligent Governance)
+       required to build an Autonomous Growth System.",
+    64       "about": [
+    65         {
+    66           "@type": "Thing",
+    67           "name": "The Three Laws of Autonomous Growth"
+    68         },
+    69         {
+    70           "@type": "Thing",
+    71           "name": "The Four Pillars of Autonomous Growth Systems"
+    72         }
+    73       ],
+    74       "keywords": "Autonomous Growth System, AGS, Three Laws of Autonomous Growth, Operational Alpha, Intelligent Governance, Agentic Readiness Score, ARS"
+    75     },
+    76     {
+    77       "@type": "Article",
+    78       "@id": "https://raw.githubusercontent.com/sotaventa/Agentic-Commerce-Optimization-ACO/main/aco-manifesto.md",
+    79       "author": {
+    80         "@id": "https://malingaertig.com/#person"
+    81       },
+    82       "headline": "The Agentic Commerce Optimisation (ACO) Manifesto",
+    83       "datePublished": "2026-05-05",
+    84       "description": "The technical framework and manifesto defining the engineering standards for Agentic Commerce Optimisation (ACO), differentiating it from AEO, and detailing the
+       integration of WebMCP, MCP, and UCP.",
+    85       "about": [
+    86         {
+    87           "@type": "Thing",
+    88           "name": "Agentic Commerce Optimisation",
+    89           "url": "https://github.com/sotaventa/Agentic-Commerce-Optimization-ACO"
+    90         },
+    91         {
+    92           "@type": "Thing",
+    93           "name": "AEO vs ACO"
+    94         }
+    95       ],
+    96       "keywords": "Agentic Commerce Optimisation, ACO, AEO vs ACO, WebMCP, UCP, Machine Legibility, Signal Resilience"
+    97     },
+    98     {
+    99       "@type": "CreativeWork",
+   100       "@id": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/ags-schema.json",
+   101       "name": "AGS Framework Schema",
+   102       "description": "Machine-readable definition of the Autonomous Growth System and ACO frameworks.",
+   103       "usageInfo": "https://raw.githubusercontent.com/sotaventa/AGS-Framework/main/README.md"
+   104     }
+   105   ]
+   106 }
